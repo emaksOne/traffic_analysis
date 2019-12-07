@@ -1,0 +1,12 @@
+'/content/drive/My Drive/Development/traffic_analysis/Dataset/train/Car/3e36a0079fe31326.jpg' 85,292,390,463,0 342,269,655,424,0
+'/content/drive/My Drive/Development/traffic_analysis/Dataset/train/Car/3698766255fd4e40.jpg' 45,86,1023,517,0
+'/content/drive/My Drive/Development/traffic_analysis/Dataset/train/Car/b99af379f7a93751.jpg' 0,2,500,497,0 138,42,943,656,0 788,21,914,56,0 801,55,1023,286,0 922,15,1023,129,0
+'/content/drive/My Drive/Development/traffic_analysis/Dataset/train/Van/f7b502a34b2620a1.jpg' 565,361,908,501,1
+'/content/drive/My Drive/Development/traffic_analysis/Dataset/train/Van/971c72d410c0db6c.jpg' 112,423,529,691,1
+'/content/drive/My Drive/Development/traffic_analysis/Dataset/train/Van/2ffe29fad9c899b1.jpg' 81,106,759,603,1
+'/content/drive/My Drive/Development/traffic_analysis/Dataset/train/Bus/442cce480c35e265.jpg' 97,74,965,625,2
+'/content/drive/My Drive/Development/traffic_analysis/Dataset/train/Bus/0fba970e2cb5239e.jpg' 288,245,644,356,2
+'/content/drive/My Drive/Development/traffic_analysis/Dataset/train/Bus/7661909c73daa16b.jpg' 147,166,513,406,2
+'/content/drive/My Drive/Development/traffic_analysis/Dataset/train/Truck/5dc93d30d328d467.jpg' 34,60,969,446,3
+'/content/drive/My Drive/Development/traffic_analysis/Dataset/train/Truck/5faf41dd028529f6.jpg' 110,145,743,614,3
+'/content/drive/My Drive/Development/traffic_analysis/Dataset/train/Truck/049c2292065635ce.jpg' 467,236,924,632,3 37,320,128,400,3 186,273,275,451,3 272,262,525,504,3 378,296,490,483,3 418,300,566,542,3
