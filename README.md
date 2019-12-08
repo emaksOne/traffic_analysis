@@ -50,7 +50,7 @@ will use coco pretrained weights by default and then use only car, bus, truck cl
 	python load_dataset_toolkit/OIDv4_ToolKit/voc_to_YOLOv3.py
 	```
 
-	It will convert origin annotation files to xml and then to txt that reqired for model 
+	It will convert origin annotation files to xml and then to txt that reqired for model.
 	Move 4_vehicles.txt and 4_vehicles_classes.txt(you can specify this names in voc_to_YOLOv3.py) to model_data folder
 
 2. Train on this data.
