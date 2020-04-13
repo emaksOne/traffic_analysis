@@ -1,3 +1,5 @@
+![](example.gif)
+
 #### FOLDER STRUCTURE
 ```
 main_folder
